@@ -9,7 +9,7 @@ Resources/city_data.csv
 Resources/ride_data.csv
 
 ## Summary / Results
-
+![City Type Summary Analysis](https://github.com/lnharvin/pyber_analysis/blob/main/images/city_type_summary_analysis.png)
 
 ## Challenge Overview
 
