@@ -13,7 +13,9 @@ Though the quanity of Urban rides are higher the cost per fare is greater in Rur
 
 ![City Type Summary Analysis](https://github.com/lnharvin/pyber_analysis/blob/main/images/city_type_summary_analysis.png)
 
-![Weekly Fares](https://github.com/lnharvin/pyber_analysis/blob/main/images/weekly_fares_summary.png)
+The last week in February appears to be very active across all three city types.
+
+![Jan-Apr 2019 Total Fares](https://github.com/lnharvin/pyber_analysis/blob/main/images/JanApr_fares_summary.png)
 
 ## Challenge Overview
 Analyze and visualize ride-sharing data using Python, Pandas, and the Matplotlib library.
